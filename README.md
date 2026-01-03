@@ -19,3 +19,4 @@ This project contains Kubernetes manifests to deploy microservices on AWS EKS.
    kubectl apply -f deployment.yaml
    kubectl apply -f service.yaml
    kubectl apply -f hpa.yaml
+
